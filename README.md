@@ -21,6 +21,11 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![MongoDB](https://img.shields.io/badge/-Mongo-000?&logo=Mongo)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+
+
 <!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
 
 ### Web Dev Projects
