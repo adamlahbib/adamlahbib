@@ -22,7 +22,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![MongoDB](https://img.shields.io/badge/-Mongo-000?&logo=Mongo)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
 
