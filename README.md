@@ -20,10 +20,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-000?&logo=Twilwindcss)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
 <!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
 
-### Full Stack Projects
+### Web Dev Projects
 
 ![](https://img.shields.io/badge/-🚧%20PPP%20Personal%20Professional%20Project%20Around%20Devops%20And%20Kubernetes-000)
 ![](https://img.shields.io/badge/-👁️%20INSAT's%20Techlens%20Club%20Website-000)
