@@ -4,7 +4,7 @@
   </head>
 <body>
 
-![Adam Lahbib](https://raw.githubusercontent.com/adamlahbib/adamlahbib/master/adamlahbib.svg)
+![Adam Lahbib](./adamlahbib.svg)
 
 ### Languages
 
