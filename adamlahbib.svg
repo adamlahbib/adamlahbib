@@ -1,4 +1,7 @@
 <svg width="677.401" height="109.502" viewBox="0 0 677.401 109.502" xmlns="http://www.w3.org/2000/svg">
+	 <rect width="3694" height="2103" id="repeat" fill="#666" opacity="0" display="none">
+        <set attributeName="display" to="inline" begin="animateE2.end+0.5s" end="repeat.click;indefinite" />
+    </rect>
 	<g id="svgGroup" stroke-linecap="round" fill-rule="evenodd" font-size="9pt" stroke="#000" stroke-width="0.25mm" fill="none" style="stroke:#000;stroke-width:0.25mm;fill:none">
 		<path d="M 25.5 2.25 L 35.4 2.25 L 9.9 107.25 L 0 107.25 L 25.5 2.25 Z M 25.8 2.25 L 35.7 2.25 L 61.2 107.25 L 51.3 107.25 L 25.8 2.25 Z M 50.85 84.75 L 12.6 84.75 L 12.6 75.3 L 50.85 75.3 L 50.85 84.75 Z" id="0" vector-effect="non-scaling-stroke">
 			        <animate id="animateE1Border" attributeName="stroke-dashoffset" from="1720" to="0" begin="1s;repeat.click+0.25s" dur="0.75s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
