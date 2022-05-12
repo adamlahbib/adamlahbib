@@ -4,7 +4,7 @@
   </head>
 <body>
 
-![Adam Lahbib](https://raw.githubusercontent.com/adamlahbib/adamlahbib/master/adamlahbib.svg?token=GHSAT0AAAAAABS476YCBRNGBWLGLGAZF3TAYT5CPGA)
+![Adam Lahbib](https://raw.githubusercontent.com/adamlahbib/adamlahbib/master/adamlahbib.svg)
 
 ### Languages
 
