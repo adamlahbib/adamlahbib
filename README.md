@@ -1,4 +1,6 @@
+<html><head>
 <link rel="stylesheet" href="./style.css" />
+
 <script>
   function setTextAnimation(delay, duration, strokeWidth, timingFunction, strokeColor,repeat) {
             let paths = document.querySelectorAll("path");
@@ -16,6 +18,8 @@
         }
  setTextAnimation(0.1,3,2,'linear','#ffffff',true);
                                              </script>
+  </head>
+<body>
 
 ![Adam Lahbib](https://raw.githubusercontent.com/adamlahbib/adamlahbib/master/adamlahbib.svg?token=GHSAT0AAAAAABS476YCBRNGBWLGLGAZF3TAYT5CPGA)
 
@@ -59,3 +63,6 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamlahbib&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=dark" />
 
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adamlahbib)-->
+
+  </body>
+  </html>
