@@ -1,4 +1,9 @@
-## Adam Lahbib
+<link rel="stylesheet" href="./style.css" />
+<script src="./script.js"></script>
+
+
+![Abhinandan Trilokia](https://raw.githubusercontent.com/adamlahbib/adamlahbib/master/adamlahbib.svg?token=GHSAT0AAAAAABS476YCBRNGBWLGLGAZF3TAYT5CPGA)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
