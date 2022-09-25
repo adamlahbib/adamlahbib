@@ -32,7 +32,7 @@
 ### Cybersecurity Journey - Forensics & Misc player with [SOter14](https://soter14.tech) - Member Of [Securinets](https://securinets.tn) Technical Team
 [![](https://img.shields.io/badge/-🤠%20Ranked%20Top%2060%20in%20Cyberdefenders-000?style=for-the-badge)](https://cyberdefenders.org/profile/adamlahbib)
 [![](https://img.shields.io/badge/-🚩%20Played%20in%20more%20than%2010%20CTFs-000?style=for-the-badge)](https://ctftime.org/team/194091)
-[![](https://img.shields.io/badge/-🌎%20Check%204n6nk8s%20blog%20for%20my%20Write-ups-000?style=for-the-badge)](https://4n6nk8s.tech)
+[![](https://img.shields.io/badge/-🌎%20Check%204n6nk8s%20blog%20for%20Writeups-000?style=for-the-badge)](https://4n6nk8s.tech)
 
 ### Game Dev Projects
 ![](https://img.shields.io/badge/-🛶%20Multiplayer%20Kayak%20Simulation%20For%20VR-000?style=for-the-badge)
