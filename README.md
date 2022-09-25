@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=for-the-badge)
 
-### Cybersecurity Journey - Forensics & Misc player with [SOter14](https://soter14.tech) - Member Of Securinets Technical Team
+### Cybersecurity Journey - Forensics & Misc player with [SOter14](https://soter14.tech) - Member Of [Securinets](https://securinets.tn) Technical Team
 ![](https://img.shields.io/badge/-🤠%20Ranked%20Top%2060%20in%20Cyberdefenders-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🚩%20Played%20in%20more%20than%2010%20CTFs-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🌎%20Check%204n6nk8s%20blog%20for%20my%20Write-ups-000?style=for-the-badge) [4n6nk8s.tech](https://4n6nk8s.tech)
