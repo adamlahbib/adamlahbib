@@ -37,10 +37,10 @@
 [![](https://img.shields.io/badge/-🌎%20Check%204n6nk8s%20blog%20for%20Writeups-000?style=for-the-badge)](https://4n6nk8s.tech)
 
 ### Cloud & DevOps Journey
+![](https://img.shields.io/badge/-🐳%20DevOps%20Flow%20for%20MSA%20app-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-☸%20MSA%20Deployment%20on%20AKS-000?style=for-the-badge)
 
 ### Web Dev Projects
-![](https://img.shields.io/badge/-🚧%20PPP%20Personal%20Professional%20Project:%20%20Implementing%20Devops%20Flows%20For%20Microservice%20Applications%20On%20Kubernetes-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-👁️%20INSAT's%20Techlens%20Club%20Website-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🪙%20Siporty%20Tipping%20Platform-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-⚔️%20Participated%20in%20ACM's%20Battle%20Royale%20v1.0%20Development-000?style=for-the-badge)
