@@ -8,10 +8,11 @@
 ### I Code in
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
 
 ### Technologies
 
@@ -35,10 +36,8 @@
 [![](https://img.shields.io/badge/-🚩%20SOter14%20is%20ranked%20first%20%20in%20Tunisia%20and%20Top%2050%20globally-000?style=for-the-badge)](https://ctftime.org/team/194091)
 [![](https://img.shields.io/badge/-🌎%20Check%204n6nk8s%20blog%20for%20Writeups-000?style=for-the-badge)](https://4n6nk8s.tech)
 
-### Game Dev Projects
-![](https://img.shields.io/badge/-🛶%20Multiplayer%20Kayak%20Simulation%20For%20VR-000?style=for-the-badge)
-![](https://img.shields.io/badge/-⚽%20Football%20Mini%20Game%20Prototype-000?style=for-the-badge)
-![](https://img.shields.io/badge/-🌌%20Cosmos%20Simulation%20For%20Mixed%20Reality-000?style=for-the-badge)
+### Cloud & DevOps Journey
+![](https://img.shields.io/badge/-☸ %20MSA%20Deployment%20on%20AKS-000?style=for-the-badge)
 
 ### Web Dev Projects
 ![](https://img.shields.io/badge/-🚧%20PPP%20Personal%20Professional%20Project:%20%20Implementing%20Devops%20Flows%20For%20Microservice%20Applications%20On%20Kubernetes-000?style=for-the-badge)
@@ -47,6 +46,10 @@
 ![](https://img.shields.io/badge/-⚔️%20Participated%20in%20ACM's%20Battle%20Royale%20v1.0%20Development-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🖼️%20Sollectify%20NFT%20Marketplace%20frontend%20development-000?style=for-the-badge)
 
+### Game Dev Projects
+![](https://img.shields.io/badge/-🛶%20Multiplayer%20Kayak%20Simulation%20For%20VR-000?style=for-the-badge)
+![](https://img.shields.io/badge/-⚽%20Football%20Mini%20Game%20Prototype-000?style=for-the-badge)
+![](https://img.shields.io/badge/-🌌%20Cosmos%20Simulation%20For%20Mixed%20Reality-000?style=for-the-badge)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamlahbib&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=dark" />
 
