@@ -51,9 +51,5 @@
 ![](https://img.shields.io/badge/-⚽%20Football%20Mini%20Game%20Prototype-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🌌%20Cosmos%20Simulation%20For%20Mixed%20Reality-000?style=for-the-badge)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamlahbib&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamlahbib&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=dark" />
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adamlahbib)
-
   </body>
   </html>
