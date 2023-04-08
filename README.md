@@ -30,13 +30,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=for-the-badge)
 
-### Cybersecurity Journey - Forensics & Misc player with [SOter14](https://soter14.tech) - Member Of [Securinets](https://securinets.tn) Technical Team
+### Cybersecurity Journey - Forensics, OSINT, and Misc player with [SOter14](https://soter14.tech) - Member Of [Securinets](https://securinets.tn) Technical Team
 [![](https://img.shields.io/badge/-🤠%20Ranked%20Top%2060%20in%20Cyberdefenders-000?style=for-the-badge)](https://cyberdefenders.org/profile/adamlahbib)
 [![](https://img.shields.io/badge/-🚩%20Played%20in%20more%20than%2010%20CTFs-000?style=for-the-badge)](https://ctftime.org/team/194091)
 [![](https://img.shields.io/badge/-🚩%20SOter14%20is%20ranked%20first%20%20in%20Tunisia%20and%20Top%2050%20globally-000?style=for-the-badge)](https://ctftime.org/team/194091)
 [![](https://img.shields.io/badge/-🌎%20Check%204n6nk8s%20blog%20for%20Writeups-000?style=for-the-badge)](https://4n6nk8s.tech)
 
 ### Cloud & DevOps Journey
+![](https://img.shields.io/badge/-☸%20Automating%20Webapp%20Deployments%20on%20Cloud%20with%20Kubernetes-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🐳%20DevOps%20Flow%20for%20MSA%20app-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-☸%20MSA%20Deployment%20on%20AKS-000?style=for-the-badge)
 
@@ -46,10 +47,13 @@
 ![](https://img.shields.io/badge/-⚔️%20Participated%20in%20ACM's%20Battle%20Royale%20v1.0%20Development-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🖼️%20Sollectify%20NFT%20Marketplace%20frontend%20development-000?style=for-the-badge)
 
-### Game Dev Projects
+### Metaverse & Web 3
 ![](https://img.shields.io/badge/-🛶%20Multiplayer%20Kayak%20Simulation%20For%20VR-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-⚽%20Football%20Mini%20Game%20Prototype-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🌌%20Cosmos%20Simulation%20For%20Mixed%20Reality-000?style=for-the-badge)
+![](https://img.shields.io/badge/-💎%20Sollectify%20NFT%20Marketplace-000?style=for-the-badge)
+![](https://img.shields.io/badge/-🌞%20Solana%20Companion%20All-in-one%20Tools-000?style=for-the-badge)
+
 
   </body>
   </html>
