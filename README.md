@@ -16,7 +16,7 @@
 
 ### Technologies
   
-![GCP](https://img.shields.io/badge/-GCP-000000?style=flat&logo=google-cloud)
+![GCP](https://img.shields.io/badge/-GCP-000?style=for-the-badge&logo=google-cloud)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
