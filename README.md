@@ -30,7 +30,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=for-the-badge)
 
-### Cybersecurity Journey - Forensics, OSINT, and Misc player with [SOter14](https://soter14.tech) - Member Of [Securinets](https://securinets.tn) Technical Team
+### Cybersecurity Journey
+  
+<h4>Forensics, OSINT, and Misc player with [SOter14](https://soter14.tech) - Member Of [Securinets](https://securinets.tn) Technical Team</h4>
+  
 [![](https://img.shields.io/badge/-🤠%20Ranked%20Top%2060%20in%20Cyberdefenders-000?style=for-the-badge)](https://cyberdefenders.org/profile/adamlahbib)
 [![](https://img.shields.io/badge/-🚩%20Played%20in%20more%20than%2030%20CTFs-000?style=for-the-badge)](https://ctftime.org/team/194091)
 [![](https://img.shields.io/badge/-🚩%20SOter14%20is%20ranked%20first%20%20in%20Tunisia%20and%20Top%2050%20globally-000?style=for-the-badge)](https://ctftime.org/team/194091)
