@@ -41,13 +41,14 @@
 ![](https://img.shields.io/badge/-🐳%20DevOps%20Flow%20for%20MSA%20app-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-☸%20MSA%20Deployment%20on%20AKS-000?style=for-the-badge)
 
-### Web Dev Projects
+### Web Dev Journey
 ![](https://img.shields.io/badge/-👁️%20INSAT's%20Techlens%20Club%20Website-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🪙%20Siporty%20Tipping%20Platform-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-⚔️%20Participated%20in%20ACM's%20Battle%20Royale%20v1.0%20Development-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🖼️%20Sollectify%20NFT%20Marketplace%20frontend%20development-000?style=for-the-badge)
+![](https://img.shields.io/badge/-🌙%20Played%20in%20more%20than%2015%20Hackathons-000?style=for-the-badge)
 
-### Metaverse & Web 3
+### Metaverse & Web 3 Journey
 ![](https://img.shields.io/badge/-🛶%20Multiplayer%20Kayak%20Simulation%20For%20VR-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-⚽%20Football%20Mini%20Game%20Prototype-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🌌%20Cosmos%20Simulation%20For%20Mixed%20Reality-000?style=for-the-badge)
