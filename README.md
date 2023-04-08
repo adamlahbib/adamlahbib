@@ -45,7 +45,6 @@
 ![](https://img.shields.io/badge/-👁️%20INSAT's%20Techlens%20Club%20Website-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🪙%20Siporty%20Tipping%20Platform-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-⚔️%20Participated%20in%20ACM's%20Battle%20Royale%20v1.0%20Development-000?style=for-the-badge)
-![](https://img.shields.io/badge/-🖼️%20Sollectify%20NFT%20Marketplace%20frontend%20development-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🌙%20Played%20in%20more%20than%2015%20Hackathons-000?style=for-the-badge)
 
 ### Metaverse & Web 3 Journey
@@ -54,6 +53,8 @@
 ![](https://img.shields.io/badge/-🌌%20Cosmos%20Simulation%20For%20Mixed%20Reality-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-💎%20Sollectify%20NFT%20Marketplace-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🌞%20Solana%20Companion%20All%20in%20one%20Tools-000?style=for-the-badge)
+![](https://img.shields.io/badge/-🦸%20Kang%20Protocol%20For%20the%20Multiverse-000?style=for-the-badge)
+![](https://img.shields.io/badge/-🏫%20Eduverse%20Education%20in%20the%20Metaverse-000?style=for-the-badge)
 
 
   </body>
