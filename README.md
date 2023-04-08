@@ -52,7 +52,7 @@
 ![](https://img.shields.io/badge/-⚽%20Football%20Mini%20Game%20Prototype-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-🌌%20Cosmos%20Simulation%20For%20Mixed%20Reality-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-💎%20Sollectify%20NFT%20Marketplace-000?style=for-the-badge)
-![](https://img.shields.io/badge/-🌞%20Solana%20Companion%20All-in-one%20Tools-000?style=for-the-badge)
+![](https://img.shields.io/badge/-🌞%20Solana%20Companion%20All%20in%20one%20Tools-000?style=for-the-badge)
 
 
   </body>
