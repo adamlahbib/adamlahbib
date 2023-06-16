@@ -1,7 +1,7 @@
 <html><head>
 <link rel="stylesheet" href="./style.css" />
 <h2>Adam Lahbib</h2>
-<h4>Senior Telecommunications Network Engineering Student</h4>
+<h4>Senior Year Telecommunications Network Engineering Student</h4>
   </head>
 <body>
 
