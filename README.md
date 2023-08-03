@@ -5,6 +5,8 @@
   </head>
 <body>
 
+[admida0ui.tech](https://admida0ui.tech)  · [4n6nk8s.tech](https://4n6nk8s.tech)
+
 ### I Code in
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
