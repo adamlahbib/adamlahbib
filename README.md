@@ -5,7 +5,7 @@
   </head>
 <body>
 
-[admida0ui.tech](https://admida0ui.tech)  · [4n6nk8s.tech](https://4n6nk8s.tech)
+[admida0ui.tech](https://admida0ui.tech)
 
 ### I Code in
 
@@ -37,7 +37,7 @@
   
 <h4>
   
-Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tech) - Member Of [Securinets](https://securinets.tn) Technical Team
+Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tn) - Member Of [Securinets](https://securinets.tn) Technical Team
   
 </h4>
   
