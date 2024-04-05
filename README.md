@@ -1,3 +1,4 @@
+<!--
 <html><head>
 <link rel="stylesheet" href="./style.css" />
 <h2>Adam Lahbib</h2>
@@ -66,3 +67,4 @@ Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tn) - M
 
   </body>
   </html>
+-->
