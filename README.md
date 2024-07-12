@@ -6,7 +6,8 @@ Learn technical things at [admida0ui](https://admida0ui.de) and [4n6nk8s](https:
 
 Play past CTF challenges at [CTF12](https://ctf.admida0ui.de)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlahbib&layout=compact&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlahbib&layout=compact&hide_progress=true&theme=transparent)
+
 
 <!--
 <html><head>
