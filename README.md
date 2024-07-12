@@ -4,7 +4,7 @@ Final-Year Computer Networks and Systems Engineering Working Student specialised
 
 Learn technical things at [admida0ui](https://admida0ui.de) and [4n6nk8s](https://4n6nk8s.github.io)
 
-Play past CTF challenges at [CTF12](https://ctf.adamida0ui.de)
+Play past CTF challenges at [CTF12](https://ctf.admida0ui.de)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlahbib&layout=compact&hide_progress=true)
 
