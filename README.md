@@ -1,6 +1,6 @@
 # [x.com @adlahbib](https://x.com/adlahbib)
 
-SRE/Platform Engineer with Cybersecurity Expertise in Source Intelligence, Digital Forensics, and Incident Response with [Securinets](https://securinets.tn) and [SOter14](https://soter14.tn) CTF teams.
+SRE/Platform Engineer with Cybersecurity Expertise Playing and Authoring Source Intelligence, Digital Forensics, and Incident Response Challenges with [Securinets](https://securinets.tn) and [SOter14](https://soter14.tn) CTF teams.
 
 ND.Eng from [@INSATunisia](https://github.com/insatunisia) · M.Eng from Polytechnic Sch.
 
