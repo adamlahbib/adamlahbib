@@ -2,11 +2,11 @@
 
 SRE/Platform Engineer with Cybersecurity Expertise in Source Intelligence, Digital Forensics, and Incident Response with [Securinets](https://securinets.tn) and [SOter14](https://soter14.tn) CTF teams.
 
-ND.Eng from [@INSATunisia](https://github.com/insatunisia), M.Eng from Polytechnic Sch.
+ND.Eng from [@INSATunisia](https://github.com/insatunisia) · M.Eng from Polytechnic Sch.
 
-Learn technical things at [admida0ui](https://admida0ui.de) and [4n6nk8s](https://4n6nk8s.github.io)
+Learn technical things at [admida0ui](https://admida0ui.de) and [4n6nk8s](https://4n6nk8s.github.io).
 
-Play past CTF challenges on [CTF12](https://ctf.admida0ui.de)
+Play past CTF challenges on [CTF12](https://ctf.admida0ui.de).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlahbib&layout=compact&hide_progress=true&theme=transparent)
 
