@@ -1,12 +1,12 @@
 # [x.com @adlahbib](https://x.com/adlahbib)
 
-SRE/Platform Engineer with Cybersecurity Expertise Playing and Authoring Source Intelligence, Digital Forensics, and Incident Response Challenges with [Securinets](https://securinets.tn) & [SOter14](https://soter14.tn) CTF teams.
+SRE/Platform Engineer with Cybersecurity Expertise Playing and Authoring Source Intelligence, Digital Forensics, and Incident Response Challenges with [Securinets](https://securinets.tn) & [SOter14](https://soter14.tn) CTF Teams.
 
-ND.Eng from [@INSATunisia](https://github.com/insatunisia) & M.Eng from Polytechnic Sch.
+Holding an ND.Eng from [@INSATunisia](https://github.com/insatunisia) & M.Eng from Polytechnic Sch.
 
-Learn technical things at [admida0ui](https://admida0ui.de) & [4n6nk8s](https://4n6nk8s.github.io).
+Check Complex Technical Things at [admida0ui](https://admida0ui.de) & [4n6nk8s](https://4n6nk8s.github.io).
 
-Play past CTF challenges on [CTF12](https://ctf.admida0ui.de).
+Try Past CTF Challenges on [CTF12](https://ctf.admida0ui.de).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlahbib&layout=compact&hide_progress=true&theme=transparent)
 
