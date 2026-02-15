@@ -4,9 +4,6 @@ Played and Authored Source Intelligence, Digital Forensics, and Incident Respons
 
 Holding an ND.Eng from [@INSATunisia](https://github.com/insatunisia) & M.Eng from Polytechnic Sch.
 
-![Azure](https://img.shields.io/badge/AZ104-000?&logo=microsoftazure&style=for-the-badge)
-![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=google-cloud)
-![AWS](https://img.shields.io/badge/AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge)
 ![Preparing for CKA](https://img.shields.io/badge/Kubernetes-Preparing_for_CKA-000?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### I Code in
@@ -40,6 +37,7 @@ Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tn) - P
 
   </body>
   </html>
+
 
 
 
