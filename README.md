@@ -91,6 +91,7 @@ Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tn) - M
   </html>
 -->
 
-![Kubernetes](https://img.shields.io/badge/?&logo=Kubernetes&style=for-the-badge) Preparing for CKA 
+![Preparing for CKA](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 
