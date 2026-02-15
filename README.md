@@ -87,9 +87,10 @@ Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tn) - M
   </html>
 -->
 
-### Agentic, Platform, and Security
+### Agentic, Platform, and Security Engineering
 
 ![Preparing for CKA](https://img.shields.io/badge/Kubernetes-Preparing_for_CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 
 
