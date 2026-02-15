@@ -4,10 +4,6 @@ SRE/Platform Engineer with Cybersecurity Expertise Playing and Authoring Source 
 
 Holding an ND.Eng from [@INSATunisia](https://github.com/insatunisia) & M.Eng from Polytechnic Sch.
 
-Check Complex Technical Things at [admida0ui](https://admida0ui.de) & [4n6nk8s](https://4n6nk8s.github.io).
-
-Try Past CTF Challenges on [CTF12](https://ctf.admida0ui.de).
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlahbib&layout=compact&hide_progress=true&theme=transparent)
 
 
@@ -92,6 +88,7 @@ Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tn) - M
 -->
 
 ![Preparing for CKA](https://img.shields.io/badge/Kubernetes-Preparing_for_CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 
 
