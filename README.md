@@ -4,23 +4,12 @@ Played and Authored Source Intelligence, Digital Forensics, and Incident Respons
 
 Holding an ND.Eng from [@INSATunisia](https://github.com/insatunisia) & M.Eng from Polytechnic Sch.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlahbib&layout=compact&hide_progress=true&theme=transparent)
-
-
 ![Azure](https://img.shields.io/badge/-AZ&#8211;104-000?&logo=microsoftazure&style=for-the-badge)
 ![GCP](https://img.shields.io/badge/-000?style=for-the-badge&logo=google-cloud)
 ![AWS](https://img.shields.io/badge/-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge)
 ![Preparing for CKA](https://img.shields.io/badge/Kubernetes-Preparing_for_CKA-000?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-000?&logo=Terraform&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/-000?&logo=Ansible&style=for-the-badge)
-
-
-<html><head>
-<link rel="stylesheet" href="./style.css" />
-<h2>Adam Lahbib</h2>
-<h4>Senior Year Telecommunications Network Engineering Student</h4>
-  </head>
-<body>
 
 ### I Code in
 
@@ -53,5 +42,6 @@ Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tn) - P
 
   </body>
   </html>
+
 
 
