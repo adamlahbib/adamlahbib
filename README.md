@@ -1,6 +1,6 @@
 ## Agentic, Platform, and Security Engineering
 
-Played and Authored Source Intelligence, Digital Forensics, and Incident Response Challenges with [Securinets](https://securinets.tn) & [SOter14](https://soter14.tn) CTF Teams.
+Played and Authored Source Intelligence (OSINT), Digital Forensics, and Incident Response Challenges with [Securinets](https://securinets.tn) & [SOter14](https://soter14.tn) CTF Teams.
 
 Holding an ND.Eng from [@INSATunisia](https://github.com/insatunisia) & M.Eng from Polytechnic Sch.
 
@@ -37,6 +37,7 @@ Digital Forensics, OSINT, and Misc player with [SOter14](https://soter14.tn) - P
 
   </body>
   </html>
+
 
 
 
