@@ -4,7 +4,7 @@ Played and Authored Source Intelligence (OSINT), Digital Forensics, and Incident
 
 Holding an ND.Eng from [@INSATunisia](https://github.com/insatunisia) & M.Eng from Polytechnic Sch.
 
-![Preparing for CKA](https://img.shields.io/badge/-CKA Holder-000?style=for-the-badge&logo=kubernetes)
+![CKA Holder](https://img.shields.io/badge/-CKA Holder-000?style=for-the-badge&logo=kubernetes)
 
 ### I Code in
 
