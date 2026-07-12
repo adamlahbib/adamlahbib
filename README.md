@@ -6,7 +6,7 @@ Holding an ND.Eng from [@INSATunisia](https://github.com/insatunisia) & M.Eng fr
 
 ![CKA Holder](https://img.shields.io/badge/CKA-Holder-000000?style=for-the-badge&logo=kubernetes)
 
-![CKS Holder](https://img.shields.io/badge/CKA-Holder-000000?style=for-the-badge&logo=kubernetes)
+![CKS Holder](https://img.shields.io/badge/CKS-Holder-000000?style=for-the-badge&logo=kubernetes)
 
 
 ### I Code in
